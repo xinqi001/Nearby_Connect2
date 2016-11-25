@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Nearby_Connect2</string>
+    <string name="google_play_services_key">AIzaSyA9F1rjNGSqouT2SsQQTJNf8dIdAOTnyEI</string>
+    <string name="discover_nearby_devices">Discover nearby devices</string>
+    <string name="share_device_information">Share device information</string>
+</resources>
